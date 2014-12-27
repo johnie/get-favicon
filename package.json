@@ -1,0 +1,26 @@
+{
+  "name": "get-favicon",
+  "version": "1.0.0",
+  "description": "Getting favicon from website using google",
+  "main": "get-favicon.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:johnie/get-favicon.git"
+  },
+  "keywords": [
+    "favicon",
+    "google"
+  ],
+  "author": "Johnie Hjelm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnie/get-favicon/issues"
+  },
+  "homepage": "https://github.com/johnie/get-favicon",
+  "dependencies": {
+    "got": "^2.2.0"
+  }
+}
